@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9h4Uma2jajk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxta\\Documents\\Web-Dev\\MicrosoftbackendCert\\Mod5Act1UserManagementAPI\\Mod5Act1UserManagementAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxta\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\maxta\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

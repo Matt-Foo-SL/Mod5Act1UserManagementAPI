@@ -1,0 +1,6 @@
+@Mod5Act1UserManagementAPI_HostAddress = http://localhost:5243
+
+GET {{Mod5Act1UserManagementAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
